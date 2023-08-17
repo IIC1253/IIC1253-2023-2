@@ -15,3 +15,10 @@ Las labels definidas y **fuertemente recomendadas** para este repositorio son
 | pn| Dudas específicas de la pregunta *n* de cualquiera de las tareas durante el período de resolución de la evaluación.|
 | solucionado | Etiqueta en caso de que la duda se haya respondido de forma suficiente. |
 | duplicate | Etiqueta en caso de que ya se haya respondido una issue muy similar, se redirige a la original y no se garantiza una nueva respuesta. |
+
+Por otra parte, se generaron templates de issues (que vienen etiquetadas) y deben utilizar a menos que su duda no sea abarcada por estas.
+| template | label|
+|--|--|
+|Issue administrativa | administrativo|
+|Issue general | general|
+|Issue tarea | tn|
