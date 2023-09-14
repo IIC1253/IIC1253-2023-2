@@ -4,7 +4,7 @@ about: Preguntas de enunciado o de la materia específica de la segunda pregunta
   la tarea vigente.
 title: ''
 labels: p2, t3
-assignees: sopadeoliva, valerianazal, matildeotte, JaviL13
+assignees: kai-yamamoto1, matildeotte, sopadeoliva, valerianazal
 
 ---
 

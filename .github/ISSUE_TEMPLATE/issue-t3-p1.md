@@ -4,7 +4,7 @@ about: Preguntas de enunciado o de la materia específica de la primera pregunta
   la tarea vigente.
 title: ''
 labels: p1, t3
-assignees: migonazo, fabarcad, vicentespinozaf, ibgarrido
+assignees: fabarcad, ibgarrido, migonazo, vicentespinozaf
 
 ---
 
